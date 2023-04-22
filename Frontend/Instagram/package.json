@@ -24,7 +24,7 @@
     "react-linkify": "^1.0.0-alpha",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.1",
     "react-scroll-to-bottom": "^4.1.2",
     "socket.io-client": "^2.4.0"
   },
@@ -48,5 +48,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.79.0"
   }
 }
